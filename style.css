@@ -1,0 +1,42 @@
+body {
+background-image: url("images/bg_space.jpg");
+
+    color: black ;
+
+	font-family: Calibri;
+
+	font-size: 26px;
+
+	text-align: center;
+
+	}
+
+
+	h1 {font-weight: bolder;
+		color: #4596db;
+		letter-spacing: 13px;
+		text-align: center;}
+
+	h1,h2 {font-family: book antiqua;}
+
+	h2 {color: #0985ef ;
+		text-align: center;}
+
+	p {font-weight: lighter;
+		align-items: }
+
+	a {text-decoration: none;
+		color: #3082e7;}
+
+#link_instagram	{text-align: center;}
+
+#liste_spotify { text-align:left;}
+
+	div	{background: white;
+    background-size: normal;
+    padding: 8px;
+    margin: 96px;
+    border-radius: 13px;
+	box-shadow: 5px 6px 25px rgba(0,0,0,0.5)}
+
+	.img-circle {border-radius: 50%;}
